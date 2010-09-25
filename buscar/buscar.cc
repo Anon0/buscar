@@ -3,7 +3,8 @@
  * Workbench for Nearest Neighbour algorithms.
  * 
  * -----------------------------------------------------------------*/
- 
+
+#include <stdio.h> // Added by Anon0 - 9/24/2010 - printf compilation error
 #include <iostream>
 #include <string>
 #include <vector>

@@ -1,4 +1,4 @@
-CPP = g++
+CPP = g++ -fPIC
 OPTS = -Wall -O3
 # OPTS = -Wall -g
 INCLUDE = -I ../src

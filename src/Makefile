@@ -1,4 +1,4 @@
-CPP = g++
+CPP = g++ -fPIC
 # OPTS = -Wall -g 
 # OPTS = -Wall -O3 -std=c++0x
 OPTS = -Wall -O3
